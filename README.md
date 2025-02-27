@@ -28,7 +28,7 @@ A simple and well-structured product page built using HTML and CSS. This page sh
 
 ## Demo
 
-View the live demo [here](https://bakadja.github.io/product-page/).
+View the live demo [here](https://product-page.kevinngongang.dev/).
 
 ## Installation
 
